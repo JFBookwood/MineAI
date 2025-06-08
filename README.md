@@ -1,0 +1,2 @@
+# MineAI
+Minecraft AI Agent
